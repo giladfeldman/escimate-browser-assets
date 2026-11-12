@@ -1,0 +1,19 @@
+{
+ "poppler": {
+  "debian_version": "25.03.0-5+deb13u4",
+  "emsdk": "4.0.9",
+  "files": {
+   "pdftotext.js": "1833d3b7c8f7259d317b2418be268e115ead8ee8efcc6f04c089aa07c48f820b",
+   "pdftotext.wasm": "094cc448a90205aed86a006cfae952c29acf3e9f1b4e620dc98c9a4b37895a64",
+   "pdftoppm.js": "4fe88dd76588f4cf434c7cf94c4e8658662698e5dc805d7568db7f82af25a10a",
+   "pdftoppm.wasm": "7ffbfb28e0e72ec49409d933972a552aac7c3d344d26039e0b40808509ebd10d"
+  }
+ },
+ "effectcheck": {
+  "version": "0.7.24",
+  "webR": "0.6.0",
+  "r": "4.6.0",
+  "file": "effectcheck_0.7.24.tgz",
+  "sha256": "9577f22632b6813621c77fc7af9e0f25ff39a67a9e51495d4505b0f03469553c"
+ }
+}
