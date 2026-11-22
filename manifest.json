@@ -10,10 +10,10 @@
   }
  },
  "effectcheck": {
-  "version": "0.7.24",
+  "version": "0.7.25",
   "webR": "0.6.0",
   "r": "4.6.0",
-  "file": "effectcheck_0.7.24.tgz",
-  "sha256": "ecde264166270f1f9ae7ab0ad6d4a9860a0b556f06eced262cd1597953703f0f"
+  "file": "effectcheck_0.7.25.tgz",
+  "sha256": "30bc5baacd7be89aa839f1a353d0a20e9c42e3a2173313e9e101316768ac25b2"
  }
 }
